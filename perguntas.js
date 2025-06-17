@@ -6,8 +6,8 @@ criaCartao(
 
 criaCartao(
     'celular',
-    ' O que significa "tela de 120Hz"?' 
-    'É a quantidade de vezes que a tela atualiza a imagem por segundo. 120Hz é mais fluido que os tradicionais 60Hz, melhorando jogos e rolagem de tela.'
+    ' O que significa "tela de 120Hz"?' ,
+    'É a quantidade de vezes que a tela atualiza a imagem por segundo. 120Hz é mais fluido que os tradicionais 60Hz, melhorando jogos e rolagem de tela'
 )
 
 criaCartao(
